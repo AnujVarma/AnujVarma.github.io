@@ -95,15 +95,15 @@ body{
 
 #snow{
     /* The image used */
-    background-image: url(./images/snow_photo.jpg);
+    background-image: url(/images/snow_photo.jpg);
 
 }
 
 #California {
-  background-image: url(./images/golden-gate-5.jpg);
+  background-image: url(/images/golden-gate-5.jpg);
 }
 #Debate{
-	background-image: url(./images/latest_debate_two.jpg);
+	background-image: url(/images/latest_debate_two.jpg);
 }
 
 #orange_color{
