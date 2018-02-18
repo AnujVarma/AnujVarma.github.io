@@ -92,15 +92,17 @@ body{
     justify-content: center;
     align-items: center;
 }
-#snow {
+
+#snow{
     /* The image used */
     background-image: url("images/snow_photo.jpg");
 
 }
 
 #California{
-	background-image: url("images/.JPG");
+	background-image: url("images/California.jpg");
 }
+
 #Debate{
 	background-image: url("images/latest_debate_two.jpg");
 }
