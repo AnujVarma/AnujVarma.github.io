@@ -82,7 +82,7 @@ body{
 	display:flex;
 	flex-direction: column;
     /* Set a specific height */
-    min-height: 90%; 
+    min-height: 90%;
 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
@@ -102,13 +102,13 @@ body{
 	background-image: url("California.jpg");
 }
 #Debate{
-	background-image: url("latest_debate_two.jpg");
+	background-image: url("images/latest_debate_two.jpg");
 }
 #orange_color{
-	color: #FF7D01; 
+	color: #FF7D01;
     /*mix-blend-mode: difference;*/
 }
 
 #blue_color{
-	color: #00B2D6; 
+	color: #00B2D6;
 }
