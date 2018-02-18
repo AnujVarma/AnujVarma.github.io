@@ -94,12 +94,12 @@ body{
 }
 #snow {
     /* The image used */
-    background-image: url("snow_photo.jpg");
+    background-image: url("images/snow_photo.jpg");
 
 }
 
 #California{
-	background-image: url("California.jpg");
+	background-image: url("images/latest_debate_two.jpg");
 }
 #Debate{
 	background-image: url("images/latest_debate_two.jpg");
