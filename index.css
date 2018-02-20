@@ -68,6 +68,15 @@ body{
   border-radius: 0
 }
 
+.green_white_panel{
+  display : flex;
+  flex-direction: column;
+  background-color:#00693e;
+  height : 66%;
+  color : #000000;
+  border-radius: 0
+}
+
 .orange_white_panel{
   display : flex;
   flex-direction: column;
@@ -102,6 +111,13 @@ body{
 #California {
   background-image: url(/images/golden-gate-5.jpg);
 }
+
+#Baker{
+  background-size:contain;
+  background-color:#00693e;
+	background-image: url(/images/Baker.jpg);
+}
+
 #Debate{
 	background-image: url(/images/latest_debate_two.jpg);
 }
