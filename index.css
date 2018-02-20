@@ -1,9 +1,14 @@
+/* index.css */
+/* Anuj Varma */
+
 html{
   height:100%
 }
 body{
   height:100%;
 }
+
+/* Scroll and images */
 
 .scroll {
   width: 100%;
@@ -21,6 +26,8 @@ body{
 	filter: blur(5px) ;
 	z-index: -1;
 }
+
+/* This section deals with the text formatting */
 
 .content-container{
 	position:absolute;
@@ -59,6 +66,8 @@ body{
     text-align: center;
 }
 
+/* Below is the different colored panels*/
+
 .blue_white_panel{
   display : flex;
   flex-direction: column;
@@ -86,6 +95,8 @@ body{
   color : #000000;
   border-radius: 0
 }
+
+/* This class creates the parallax effect*/
 
 .parallax {
 	display:flex;
