@@ -93,10 +93,10 @@ body{
     align-items: center;
 }
 
-#grad{
-    /* The image used */
-    background-image: url(/images/graduation.jpg);
+/* The images used */
 
+#grad{
+    background-image: url(/images/graduation.jpg);
 }
 
 #California {
@@ -106,14 +106,14 @@ body{
 	background-image: url(/images/latest_debate_two.jpg);
 }
 
+/* Below are modifications to the color of the text */
+
 #orange_color{
 	color: #FF7D01;
-    /*mix-blend-mode: difference;*/
 }
 
 #white_color{
 	color: #ffffff;
-    /*mix-blend-mode: difference;*/
 }
 
 #blue_color{
